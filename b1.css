@@ -1,0 +1,8 @@
+.a{
+    background-color: rgb(117, 189, 194);
+    width: 300px;
+    height:200px;
+}
+input:hover{
+    background-color: yellow;
+}
